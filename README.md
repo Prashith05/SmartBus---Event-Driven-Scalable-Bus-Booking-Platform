@@ -1,4 +1,4 @@
- Project Title = **SmartBus: Event-Driven Scalable Bus Booking Platform**
+## Project Title = **SmartBus: Event-Driven Scalable Bus Booking Platform**
 
 
 ## 🚍 Project Overview
